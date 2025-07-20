@@ -1,26 +1,37 @@
-# 📘 Data Structures & Algorithms Notes
+# Data Structures & Algorithms Notes
 
 Welcome to the **DSA Notes Repository**!  
 This repo contains well-structured, concise, and comprehensive notes on **Data Structures and Algorithms** – perfect for coding interviews, competitive programming, and academic revision.
 
 ---
 
-## 🧠 What You’ll Find Here
+## What You’ll Find Here
 
-- 📒 Handwritten Notes (PDF)
-- 🧾 Topic-wise Theoretical Summaries
-- 🔍 Conceptual Explanations with Examples
-- 💡 Important Patterns & Tricks
-- 📊 Time & Space Complexity Tables
-- 🧪 Practice Problems (linked)
-- 📚 Reference Links and Cheat Sheets
+- Handwritten Notes (PDF)
+- Topic-wise Theoretical Summaries
+- Conceptual Explanations with Examples
+- Important Patterns & Tricks
+- Time & Space Complexity Tables
+- Practice Problems (linked)
+- Reference Links and Cheat Sheets
 
 ---
 
-## 🗂️ Topics Covered
+## Topics Covered
 
-### 📂 Basic Concepts
+### Basic Concepts
 
+- Binary Number
+- FlowChart & Pseudo Code
+- Computer Memory
+- Operators
+- Loop (for, while)
+- Function
+
+### Array
+
+- Array Fundamental
+- Linear Search
 ---
 
 ## How to Use
